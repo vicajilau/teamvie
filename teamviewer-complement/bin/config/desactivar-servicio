@@ -1,0 +1,4 @@
+#!/bin/bash
+# Script de bash
+
+gksudo "teamviewer --daemon disable"
